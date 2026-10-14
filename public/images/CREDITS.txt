@@ -1,0 +1,92 @@
+Demo photographs for the Kerala Trails sample website.
+Replace these files before launch. Sources are Wikimedia Commons.
+
+hero.jpg
+Already downloaded in an earlier pass.
+
+destinations/munnar.jpg
+Already downloaded in an earlier pass.
+
+destinations/wayanad.jpg
+Already downloaded in an earlier pass.
+
+destinations/alleppey.jpg
+Already downloaded in an earlier pass.
+
+destinations/thekkady.jpg
+Already downloaded in an earlier pass.
+
+destinations/vagamon.jpg
+Already downloaded in an earlier pass.
+
+destinations/kochi.jpg
+Already downloaded in an earlier pass.
+
+destinations/varkala.jpg
+Already downloaded in an earlier pass.
+
+destinations/kovalam.jpg
+Already downloaded in an earlier pass.
+
+destinations/goa.jpg
+Already downloaded in an earlier pass.
+
+destinations/manali.jpg
+Already downloaded in an earlier pass.
+
+destinations/jaipur.jpg
+Already downloaded in an earlier pass.
+
+destinations/ooty.jpg
+Title: File:360 Panorama - Aerial view of Sunrise from Ithalar village, Ooty.jpg
+Page: https://commons.wikimedia.org/wiki/File:360_Panorama_-_Aerial_view_of_Sunrise_from_Ithalar_village,_Ooty.jpg
+License: CC BY-SA 4.0
+Artist: iMahesh
+
+destinations/kodaikanal.jpg
+Title: File:Indian Gaurs near Kodaikanal lake, Tamil Nadu INDIA (2).jpg
+Page: https://commons.wikimedia.org/wiki/File:Indian_Gaurs_near_Kodaikanal_lake,_Tamil_Nadu_INDIA_(2).jpg
+License: CC BY-SA 3.0
+Artist: yjenith
+
+destinations/coorg.jpg
+Title: File:Coffee Shade Trees Paddy Fields Coorg Feb24 R16 07670.jpg
+Page: https://commons.wikimedia.org/wiki/File:Coffee_Shade_Trees_Paddy_Fields_Coorg_Feb24_R16_07670.jpg
+License: CC BY-SA 4.0
+Artist: This Photo was taken by Timothy A. Gonsalves . Feel free to use my photos, but please mention me as the author. I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page , for my information. Please contact me before commercial use. Please do not upload an edited image here without consulting me. I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved. Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract .
+
+experiences/tea.jpg
+Title: File:The ladies set their loads down to wait for the official (28729488006).jpg
+Page: https://commons.wikimedia.org/wiki/File:The_ladies_set_their_loads_down_to_wait_for_the_official_(28729488006).jpg
+License: CC BY 2.0
+Artist: shankar s. from Dubai, united arab emirates
+
+experiences/houseboat.jpg
+Title: File:Sunset at Alleppey backwaters.3.jpg
+Page: https://commons.wikimedia.org/wiki/File:Sunset_at_Alleppey_backwaters.3.jpg
+License: CC BY-SA 4.0
+Artist: Sravanbaddi
+
+experiences/hills.jpg
+Title: File:The hills are now almost obscured by mist (28455346442).jpg
+Page: https://commons.wikimedia.org/wiki/File:The_hills_are_now_almost_obscured_by_mist_(28455346442).jpg
+License: CC BY 2.0
+Artist: shankar s. from Dubai, united arab emirates
+
+experiences/beach.jpg
+Title: File:Varkala Beach, Kerala.jpg
+Page: https://commons.wikimedia.org/wiki/File:Varkala_Beach,_Kerala.jpg
+License: CC BY-SA 4.0
+Artist: Vivekobey
+
+experiences/wildlife.jpg
+Title: File:Periyar river, Tiger reserve,Kumily,Kerala 11-9-2024 01.jpg
+Page: https://commons.wikimedia.org/wiki/File:Periyar_river,_Tiger_reserve,Kumily,Kerala_11-9-2024_01.jpg
+License: CC0
+Artist: Antonio Sinoy
+
+experiences/culture.jpg
+Title: File:Kathakali 4.jpg
+Page: https://commons.wikimedia.org/wiki/File:Kathakali_4.jpg
+License: CC BY 2.0
+Artist: Ramesh Lalwani
